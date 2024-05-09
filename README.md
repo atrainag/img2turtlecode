@@ -1,6 +1,6 @@
 # Image to Turtle Code
 
-This project turns an image of any size into a turtle code. Where if you run the turtle code it will draw the image out pixel by pixel. It is pretty slow if the color have too much detail. It took around an hour to finish a 200x200 pixel image so I think I will improve it later.
+This project turns an image of any size into a turtle code. Where if you run the turtle code it will draw the image out pixel by pixel. It is pretty slow if the color have too much detail. It took a few hour to finish a 200x200 pixel image so I think I will improve it later.
 
 # Dependency
 
@@ -12,11 +12,7 @@ pip install numpy pillow
 
 # Usage
 
-Open the main.py, change the filename and its format to the specified image. And then run the main.py, it will generate a new file called "filename".py. You can run this file to see your image being draw with turtle.
-
-Make sure the image is on the same directory with the python. Or you can change the code to have the open filepath into your image path.
-
-You can also specify how big is each pixel, just change the "pix" variable.
+Run the main.py program. It will asks you if you want to run Default or Manual. Default is set to the umbreon picture like below and it will make a turtle file for it with 1 pixel per block. Manual is for a custom image and pixel per block, use this to turn your own image into a turtle code.
 
 # Demonstration
 
@@ -26,9 +22,13 @@ You can also specify how big is each pixel, just change the "pix" variable.
 
 [Image Source](https://kingosiris2000.artstation.com/projects/rRamL6)
 
+![Original picture of ditto](/ditto.png)
+
 > Drawn by turtle
 
 ![Demonstration of umbreon drawn by turtle](/Assets/umbreonTurtle.png)
+
+![Demonstration of ditto drawn by turtel](/Assets/dittoTurtle.png)
 
 # Afterwords
 
