@@ -18,9 +18,9 @@ Run the main.py program. It will asks you if you want to run Default or Manual. 
 
 > Original
 
-![Original picture of umbreon](/umbreon.jpeg)
+![Image Source for umbreon](https://kingosiris2000.artstation.com/projects/rRamL6)
 
-[Image Source](https://kingosiris2000.artstation.com/projects/rRamL6)
+![Original picture of umbreon](/umbreon.jpeg)
 
 ![Original picture of ditto](/ditto.png)
 
